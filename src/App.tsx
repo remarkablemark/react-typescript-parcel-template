@@ -1,3 +1,5 @@
+import './app.css';
+
 export default function App() {
-  return <div>Hello, world!</div>;
+  return <h1>Welcome to React TypeScript Parcel!</h1>;
 }
