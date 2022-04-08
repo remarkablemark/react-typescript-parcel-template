@@ -1,1 +1,0 @@
-{"mappings":"AAAA,KAEA,kDAAA,CADA,YAEA,CAEA,EACA,aACA","sources":["src/app.css"],"sourcesContent":["body {\n  padding: 50px;\n  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;\n}\n\na {\n  color: #00b7ff;\n}\n"],"names":[],"version":3,"file":"index.91b62c2e.css.map"}
