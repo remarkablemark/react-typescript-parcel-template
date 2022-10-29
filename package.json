@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-parcel-template",
   "version": "1.0.0-alpha",
-  "description": "React TypeScript Parcel template",
+  "description": "React TypeScript Parcel Template",
   "author": "Mark <mark@remarkablemark.org>",
   "source": "public/index.html",
   "scripts": {
