@@ -1,6 +1,6 @@
 # react-typescript-parcel-template
 
-React TypeScript Parcel template.
+React TypeScript Parcel Template.
 
 ## Prerequisites
 
