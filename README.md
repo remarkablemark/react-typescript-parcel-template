@@ -43,7 +43,7 @@ It correctly bundles in production mode and optimizes the build for the best per
 
 The build is minified and the filenames include the hashes.
 
-Your game is ready to be deployed!
+Your app is ready to be deployed!
 
 ## License
 
