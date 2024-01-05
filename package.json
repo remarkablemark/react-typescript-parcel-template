@@ -16,7 +16,7 @@
   "homepage": "https://remarkablemark.org/react-typescript-parcel-template/",
   "devDependencies": {
     "@commitlint/cli": "18.4.4",
-    "@commitlint/config-conventional": "18.4.3",
+    "@commitlint/config-conventional": "18.4.4",
     "@parcel/packager-raw-url": "2.11.0",
     "@parcel/transformer-webmanifest": "2.11.0",
     "@types/react": "18.2.46",
