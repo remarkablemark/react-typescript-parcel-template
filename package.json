@@ -9,7 +9,7 @@
     "clean": "rm -rf .parcel-cache dist",
     "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
-    "postinstall": "husky install",
+    "prepare": "husky",
     "start": "parcel --open",
     "tsc": "tsc --noEmit"
   },
