@@ -40,8 +40,7 @@ jobs:
         run: npm run build -- --public-url ${{ env.URL }}
 
       - name: Deploy
-        if: github.ref == 'refs/heads/master'
-        uses: JamesIves/github-pages-deploy-action@v4
+        if: github.ref_name == 'master'
+        uses: remarkablemark/gitploy-action@v1
         with:
-          branch: gh-pages
-          folder: dist
+          directory: dist
