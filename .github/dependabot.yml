@@ -10,6 +10,12 @@ updates:
     schedule:
       interval: 'daily'
     groups:
+      commitlint:
+        patterns:
+          - '@commitlint/*'
+      eslint:
+        patterns:
+          - '@eslint/*'
       parcel:
         patterns:
           - parcel
