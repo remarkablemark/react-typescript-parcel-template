@@ -22,7 +22,7 @@
     "@eslint/js": "9.34.0",
     "@parcel/packager-raw-url": "2.15.4",
     "@parcel/transformer-webmanifest": "2.15.4",
-    "@types/react": "19.1.10",
+    "@types/react": "19.1.11",
     "@types/react-dom": "19.1.7",
     "@typescript-eslint/eslint-plugin": "8.40.0",
     "@typescript-eslint/parser": "8.40.0",
