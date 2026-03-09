@@ -17,8 +17,8 @@
   "devDependencies": {
     "@commitlint/cli": "20.4.3",
     "@commitlint/config-conventional": "20.4.3",
-    "@eslint/compat": "2.0.2",
-    "@eslint/eslintrc": "3.3.4",
+    "@eslint/compat": "2.0.3",
+    "@eslint/eslintrc": "3.3.5",
     "@eslint/js": "10.0.1",
     "@parcel/packager-raw-url": "2.16.4",
     "@parcel/transformer-webmanifest": "2.16.4",
